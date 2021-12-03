@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">task</string>
+
+    <string name="dialog_title">タスクの追加</string>
+    <string name="dialog_add">追加する</string>
+    <string name="dialog_cancel">キャンセル</string>
+
+    //for hint
+    <string name="task_name_hint">タスクの名称</string>
+    <string name="task_deadline_hint">タスクの期限</string>
+    <string name="task_required_hint">タスクの所要時間</string>
+</resources>
